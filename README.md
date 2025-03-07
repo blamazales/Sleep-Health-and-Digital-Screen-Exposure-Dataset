@@ -77,6 +77,8 @@ As seguintes etapas foram aplicadas ao conjunto de dados:
 5. Conversão para valores numéricos: Tratamento de possíveis erros na conversão.
 
 6. Cálculo da Média da Pressão: Criação de uma nova coluna Média Pressão.
+   
+8. Análises de possíveis correlações entre as variáveis
 
 
 📊 Análises e Visualizações
